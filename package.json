@@ -1,0 +1,11 @@
+{
+  "name": "js-deobfuscator",
+  "version": "1.0.0",
+  "description": "A standalone Node.js script to deobfuscate JavaScript files.",
+  "main": "deobfuscator.js",
+  "scripts": {
+    "deobfuscate": "node deobfuscator.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
